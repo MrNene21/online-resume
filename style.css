@@ -117,6 +117,24 @@ body
     color: #fff;
     font-family: 300;
 }
+.onlineCourses
+{
+    position: relative;
+    margin-top: 30px;
+}
+.onlineCourses ul
+{
+    position: relative;
+}
+.onlineCourses ul li
+{
+    color: #fff;
+    font-family: 300;
+}
+.onlineCourses .Attained
+{
+    color: #fff;
+}
 .container .right_side
 {
     position: relative;
