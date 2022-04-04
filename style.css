@@ -29,7 +29,7 @@ body
 {
     position: relative;
     background: #003147;
-    padding: 40px;
+    padding: 25px;
 }
 .title
 {
@@ -192,6 +192,21 @@ hr {
     padding-top: 0px;
 }
 .workExp .company
+{
+    color: gray;
+}
+.educationHis
+{
+    position: relative;
+    margin-top: 30px;
+    text-align: justify; 
+}
+.educationHis .job
+{
+    margin-bottom: 4px;
+    padding-top: 0px;
+}
+.educationHis .qualification
 {
     color: gray;
 }
