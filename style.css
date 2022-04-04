@@ -141,3 +141,57 @@ body
     background: #fff;
     padding: 40px;
 }
+.titleRight
+{
+    color: #003147;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+.right_side .myName
+{
+    color: #003147;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1.2px solid;
+    margin: 1em 0;
+    padding: 0;
+}
+.right_side .uniGrad
+{
+    color: #003147;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+    font-size: medium;
+}
+.persProf
+{
+    position: relative;
+    margin-top: 20px;
+    text-align: justify;
+}
+.workExp
+{
+    position: relative;
+    margin-top: 30px;
+    text-align: justify; 
+}
+.workExp .job
+{
+    margin-bottom: 4px;
+    padding-top: 0px;
+}
+.workExp .company
+{
+    color: gray;
+}
