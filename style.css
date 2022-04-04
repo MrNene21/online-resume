@@ -148,6 +148,7 @@ body
     font-weight: 600;
     letter-spacing: 1px;
     margin-bottom: 15px;
+    text-decoration: underline
 }
 .right_side .myName
 {
@@ -210,3 +211,48 @@ hr {
 {
     color: gray;
 }
+.projects
+{
+    
+    position: relative;
+    margin-top: 30px;
+    text-align: justify;
+}
+.projects .projName
+{
+    margin-bottom: 4px;
+    padding-top: 0px;
+}
+
+/* Hyperlink function for ONLINE COURSES - START*/
+.onlineCourses a:link
+{
+    color: #fff
+}
+.onlineCourses a:hover
+{
+    color: hotpink;
+    font-weight: bold;
+}
+/* Hyperlink function for ONLINE COURSES - END*/
+
+
+/* Hyperlink function for LinkedIn - START*/
+.contact a:link
+{
+    color: #fff
+}
+.contact a:hover
+{
+    color: hotpink;
+    font-weight: bold;
+}
+/* Hyperlink function for LinkedIn - END*/
+
+
+/* Hyperlink function for PROJECTS - START*/
+.projects a:hover
+{
+    font-weight: bold;
+}
+/* Hyperlink function for PROJECTS - END*/
