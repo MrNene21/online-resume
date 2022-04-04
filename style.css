@@ -195,6 +195,7 @@ hr {
 .workExp .company
 {
     color: gray;
+    font-weight: bold;
 }
 .educationHis
 {
@@ -210,6 +211,7 @@ hr {
 .educationHis .qualification
 {
     color: gray;
+    font-weight: bold;
 }
 .projects
 {
@@ -225,7 +227,7 @@ hr {
 }
 
 /* Hyperlink function for ONLINE COURSES - START*/
-.onlineCourses a:link
+.onlineCourses a
 {
     color: #fff
 }
@@ -238,7 +240,7 @@ hr {
 
 
 /* Hyperlink function for LinkedIn - START*/
-.contact a:link
+.contact a
 {
     color: #fff
 }
